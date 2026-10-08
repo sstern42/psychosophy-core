@@ -2,25 +2,25 @@
   "V": {
     "code": "V",
     "name": "Will",
-    "domain": "Wants, decisions and personal power",
-    "description": "What a person wants, how they make choices, and how firmly they stand behind those choices when other people are involved."
+    "domain": "Wants, decisions, self-worth and standing",
+    "description": "What a person wants and how firmly they pursue it: their sense of self-worth, how they make decisions and take responsibility, how they persevere, and where they see themselves among other people."
   },
   "L": {
     "code": "L",
     "name": "Logic",
     "domain": "Thought, opinion and argument",
-    "description": "How a person reasons, forms views about how things are, and handles ideas, explanations and disagreement."
+    "description": "How a person reasons and forms views, how they treat information and truth, how much they enjoy discussion, and how readily they see the essence of things and the links between them."
   },
   "E": {
     "code": "E",
     "name": "Emotion",
-    "domain": "Feelings and their expression",
-    "description": "How a person experiences, shows and responds to feelings and mood, their own and other people's."
+    "domain": "Feelings, mood and taste",
+    "description": "How a person experiences, shows and reads feelings, their own and other people's, how they handle moods, and their sense of beauty and artistic taste."
   },
   "F": {
     "code": "F",
     "name": "Physics",
     "domain": "The material and physical world",
-    "description": "The body in action, physical comfort, possessions, money, practical skill and the person's surroundings."
+    "description": "The body in action and how active a person is, physical comfort and pleasure, appearance, physical strength, money, possessions and territory, and how optimistic they feel about life in general."
   }
 }

@@ -25,7 +25,7 @@ function buildType(order) {
     order: order.slice(),
     aspects: order.map((aspect, i) => {
       const pos = positionsData[String(i + 1)];
-      return { position: i + 1, aspect, name: aspectsData[aspect].name, strength: pos.strength, orientation: pos.orientation };
+      return { position: i + 1, aspect, name: aspectsData[aspect].name, strength: pos.strength, orientation: pos.orientation, exchange: pos.exchange };
     }),
     positions: order.reduce((acc, aspect, i) => { acc[aspect] = i + 1; return acc; }, {})
   };
