@@ -40,8 +40,10 @@ section('Positions');
 assert('four positions',                    p.getAllPositions().length === 4);
 assert('1 and 2 are strong',                p.getPosition(1).strength === 'Strong' && p.getPosition('2').strength === 'Strong');
 assert('3 and 4 are weak',                  p.getPosition(3).strength === 'Weak' && p.getPosition(4).strength === 'Weak');
-assert('1 and 3 are result',                p.getPosition(1).orientation === 'Result' && p.getPosition(3).orientation === 'Result');
-assert('2 and 4 are process',               p.getPosition(2).orientation === 'Process' && p.getPosition(4).orientation === 'Process');
+assert('1 and 4 are result',                p.getPosition(1).orientation === 'Result' && p.getPosition(4).orientation === 'Result');
+assert('2 and 3 are process',               p.getPosition(2).orientation === 'Process' && p.getPosition(3).orientation === 'Process');
+assert('result positions are monologue, process positions dialogue',
+  p.getAllPositions().every(x => x.exchange === (x.orientation === 'Result' ? 'Monologue' : 'Dialogue')));
 assert('each strength/orientation pair is unique',
   new Set(p.getAllPositions().map(x => x.strength + x.orientation)).size === 4);
 assert('unknown position throws',           throws(() => p.getPosition(5)));
@@ -55,7 +57,7 @@ assert('every code uses each aspect once',  all.every(t => [...t.code].sort().jo
 const vlef = p.getType('vlef');
 assert('getType is case-insensitive',       vlef.code === 'VLEF');
 assert('order matches code',                vlef.order.join('') === 'VLEF');
-assert('aspects carry position attributes', vlef.aspects[2].aspect === 'E' && vlef.aspects[2].strength === 'Weak' && vlef.aspects[2].orientation === 'Result');
+assert('aspects carry position attributes', vlef.aspects[2].aspect === 'E' && vlef.aspects[2].strength === 'Weak' && vlef.aspects[2].orientation === 'Process' && vlef.aspects[2].exchange === 'Dialogue');
 assert('positions map',                     vlef.positions.V === 1 && vlef.positions.F === 4);
 assert('positionOf',                        p.positionOf('FELV', 'Logic') === 3);
 assert('aspectAt',                          p.aspectAt('FELV', 1) === 'F');

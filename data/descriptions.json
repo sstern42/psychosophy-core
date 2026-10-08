@@ -1,86 +1,86 @@
 {
   "status": "draft, for review",
-  "note": "Original descriptions of each aspect in each position, written as observable behaviour. Keys are the aspect letter followed by the position number.",
+  "note": "Original descriptions of each aspect in each position, written as observable behaviour. Keys are the aspect letter followed by the position number. Revised against published accounts of Afanasyev's theory (0.2.0).",
   "descriptions": {
     "V1": {
       "summary": "Knows what they want and acts on it without asking permission.",
-      "behaviour": "Decisions come quickly and stay made. They take charge as a matter of course, and other people's wishes are something to weigh, not something that sets the direction. They protect others readily, but on their own terms.",
-      "signs": ["Makes the call in a group without waiting to be asked", "Rarely revisits a decision once it's made", "Pushes back calmly when someone tries to decide for them"]
+      "behaviour": "They trust their own drive above anything else and expect to set the direction. Decisions come quickly and stay made, and other people's wishes are something to weigh, not something that steers them. Being overruled feels like a real affront, so they avoid situations where their authority could be tested and lost.",
+      "signs": ["Makes the call in a group without waiting to be asked", "Rarely revisits a decision once it's made", "Takes being overruled or ignored very badly"]
     },
     "V2": {
       "summary": "Strong-willed but willing to negotiate.",
-      "behaviour": "They can lead and enjoy having a say, but they treat decisions as something to work out with others. They'll give ground on how something is done while holding on to what matters to them, and they enjoy the back-and-forth of it.",
-      "signs": ["Enjoys negotiating and finding a deal both sides accept", "Changes plans without feeling defeated", "Leads when needed and steps back without fuss"]
+      "behaviour": "They can lead and enjoy having a say, but they treat decisions as something to work out with others. They'll give ground on how something is done while holding on to what matters to them, and they enjoy the back-and-forth of it. They readily use their strength to stand up for people who need it.",
+      "signs": ["Enjoys negotiating and finding a deal both sides accept", "Changes plans without feeling defeated", "Steps in to back someone who's being pushed around"]
     },
     "V3": {
-      "summary": "Sensitive about being pushed around, and unsure of their own wants.",
-      "behaviour": "Pressure feels personal. They may give in and resent it later, or dig in hard over something small to prove they can't be controlled. Choosing for themselves can take a long time, and being told what to do stings more than they show.",
-      "signs": ["Agonises over decisions, then defends them fiercely", "Reacts sharply to being ordered about", "Avoids situations where they'd have to assert themselves openly"]
+      "summary": "Afraid of humiliation and unsure of their own standing.",
+      "behaviour": "Pressure feels personal, and being made to look small is what they fear most. They may give in and resent it later, or dig in hard over something small to prove they can't be controlled. They often cover the area with modesty, clowning or self-deprecation, and they take praise and status very seriously.",
+      "signs": ["Agonises over decisions, then defends them fiercely", "Jokes at their own expense before anyone else can", "Is deeply affected by praise, rank or being passed over"]
     },
     "V4": {
       "summary": "Happy to let others decide.",
-      "behaviour": "They don't need to be in charge and are comfortable following a clear lead. Being told what to do isn't an insult; it often comes as a relief. Their own wants tend to emerge through other people's plans rather than against them.",
-      "signs": ["Says \"whatever you prefer\" and means it", "Works best with clear direction", "Rarely fights over who gets their way"]
+      "behaviour": "They don't need to be in charge and are comfortable following a clear lead. Being told what to do isn't an insult; it often comes as a relief, and they'll agree in advance to a plan someone else makes. Their own wants tend to emerge through other people's plans rather than against them.",
+      "signs": ["Says \"whatever you prefer\" and means it", "Works best with clear direction", "Isn't bothered by being called a pushover"]
     },
     "L1": {
-      "summary": "Holds firm views and states them as conclusions.",
-      "behaviour": "They've thought things through and present their opinions as settled. They explain readily and like to be the one who makes sense of things, but they aren't easily argued out of a view, and debate is for informing others more than for changing their own mind.",
-      "signs": ["Answers questions with a clear position, not a list of options", "Explains how things work without being asked", "Stays unmoved by arguments they've already considered"]
+      "summary": "Holds firm views and argues to win.",
+      "behaviour": "They trust reasoning above anything else and present their opinions as settled conclusions. In a disagreement their first move is an argument, and they keep at it until the point is won. They aren't easily talked out of a view and don't go looking for other people's input.",
+      "signs": ["Answers questions with a clear position, not a list of options", "Pursues an argument point by point until it's settled", "Stays unmoved by arguments they've already considered"]
     },
     "L2": {
       "summary": "Enjoys thinking things through with other people.",
-      "behaviour": "Ideas are something to play with and test. They like discussion, can see several sides, and will happily update a view when a better argument comes along. Thinking is a process they enjoy, not a ruling they hand down.",
-      "signs": ["Likes a good debate for its own sake", "Says \"good point\" and changes their mind", "Explores a question before settling on an answer"]
+      "behaviour": "Ideas are something to explore and test. They're at their best discussing with someone, can see several sides, and will happily update a view when a better argument comes along. They like explaining things and helping others make sense of them.",
+      "signs": ["Likes a good debate for its own sake", "Says \"good point\" and changes their mind", "Patiently explains things to people who are struggling"]
     },
     "L3": {
-      "summary": "Worries about looking foolish or being wrong.",
-      "behaviour": "They care about having the right answer and take intellectual criticism hard. They may avoid stating opinions where they could be challenged, defend a view rigidly once it's out, or lean on experts and rules to feel on solid ground.",
-      "signs": ["Holds back opinions in a group of confident talkers", "Feels stung when their reasoning is picked apart", "Checks with an authority before committing to a view"]
+      "summary": "Afraid of looking foolish or being called incompetent.",
+      "behaviour": "They care a great deal about being thought intelligent and take intellectual criticism hard. They often hide behind scepticism, picking holes in other people's ideas rather than offering their own. Yet they keep coming back to ideas and arguments, and once comfortable they can become surprisingly talkative.",
+      "signs": ["Doubts and questions instead of stating a view", "Feels stung when their reasoning is picked apart", "Goes quiet among confident talkers, then opens up with people they trust"]
     },
     "L4": {
       "summary": "Relaxed about ideas and happy to borrow other people's.",
-      "behaviour": "They don't see themselves as a thinker and don't mind. Arguments and theories can bore them, and they readily adopt the view of someone they trust. They're more likely to go on instinct or experience than reason a thing out.",
-      "signs": ["Defers to someone who seems to know", "Loses interest in long debates", "Says \"I don't really have a view on that\" without discomfort"]
+      "behaviour": "They don't see themselves as a thinker and aren't bothered about it. They use reasoning as a tool when they need it and drop it under pressure. They readily accept an explanation that sounds plausible, and in a discussion they can be loose and playful rather than rigorous.",
+      "signs": ["Defers to someone who seems to know", "Isn't offended when called slow or wrong", "Takes up a view that sounds reasonable without testing it"]
     },
     "E1": {
-      "summary": "Expresses feelings fully and sets the emotional tone.",
-      "behaviour": "Their feelings are clear and strong, and they share them without hesitation. They lift or lower the mood of a room, and they give emotional support generously, though they don't easily take on other people's moods in return.",
-      "signs": ["Openly enthusiastic, moved or upset", "Others pick up on their mood straight away", "Comforts people readily but rarely asks for comfort"]
+      "summary": "Feels strongly and sets the emotional tone.",
+      "behaviour": "Their feelings are big and clear, and they trust them more than any argument. Their mood spreads to the people around them, and in a disagreement their feelings can carry the day. They don't easily take on other people's moods, and they rarely ask for comfort.",
+      "signs": ["Openly enthusiastic, moved or upset", "Others pick up on their mood straight away", "Feelings count for more with them than reasons"]
     },
     "E2": {
-      "summary": "Emotionally responsive and in tune with others.",
-      "behaviour": "They feel things vividly and enjoy emotional exchange. They match and shape the mood around them, share feelings easily, and are open to other people's feelings changing theirs. Expressing emotion is something they do with others, not at them.",
-      "signs": ["Picks up and responds to others' moods", "Enjoys heartfelt conversations", "Laughs or tears up easily alongside others"]
+      "summary": "Emotionally expressive and in tune with others.",
+      "behaviour": "They feel things vividly and express them with a wide range, matching their response to the moment. They enjoy emotional exchange, shape the mood around them, and are at their best with someone to share feelings with. They offer comfort and sympathy easily.",
+      "signs": ["Picks up and responds to others' moods", "Enjoys heartfelt conversations", "Is the one people turn to when they're upset"]
     },
     "E3": {
       "summary": "Feels a lot but finds it hard to show.",
-      "behaviour": "Feelings run deep, but expressing them feels exposed and awkward. They may keep a cool or restrained surface, worry about being too much or too little, and feel hurt when their feelings are dismissed or mocked. Big displays of emotion around them can be uncomfortable.",
-      "signs": ["Looks composed while churning inside", "Dislikes being asked how they feel in front of others", "Remembers for a long time when their feelings were brushed aside"]
+      "behaviour": "Feelings run deep, but expressing them feels exposed and awkward. They often hide behind dryness or irony and keep a cool surface. Emotional scenes around them are uncomfortable, and they remember for a long time when their feelings were dismissed. With people they trust, or when relaxed, they can be unexpectedly tender.",
+      "signs": ["Deflects with irony when things get emotional", "Dislikes being asked how they feel in front of others", "Softens noticeably once they feel safe"]
     },
     "E4": {
-      "summary": "Calm and not much moved by mood.",
-      "behaviour": "They don't give feelings much importance, theirs or other people's, and aren't bothered by that. They can seem steady or unflappable, and they'll happily let someone more expressive bring the warmth. Emotional drama tends to pass them by.",
-      "signs": ["Stays level when others are worked up", "Rarely talks about how they feel", "Is content for others to supply the excitement"]
+      "summary": "Easily caught up in other people's moods.",
+      "behaviour": "They don't give their own feelings much importance and aren't bothered by being called cold or over-emotional. Their mood tends to follow the people around them, and they'll happily let someone more expressive set the tone. In a crisis, feelings switch off and they just get on with things.",
+      "signs": ["Takes on the mood of whoever they're with", "Rarely talks about how they feel", "Stays practical when things get emotional"]
     },
     "F1": {
-      "summary": "At home in the physical world and sure of their own comfort.",
-      "behaviour": "They know what they like in their surroundings, possessions and physical life, and they arrange things to suit. They handle practical and material matters confidently, look after other people's physical comfort and needs, and don't need advice on how to live.",
-      "signs": ["Has a settled way of keeping home, money and things", "Takes care of practical matters for others", "Isn't swayed by others' ideas of how they should live"]
+      "summary": "Trusts the physical world and their own experience of it.",
+      "behaviour": "They know what they like in comfort, appearance and possessions, and they arrange their life to suit. They trust what they've seen and done for themselves over anything they're told. They hold on to what's theirs, and in a clash their first reaction is physical: standing their ground and outlasting the other side.",
+      "signs": ["Has a settled way of keeping home, money and things", "Believes it when they've tried it themselves", "Defends their space and belongings firmly"]
     },
     "F2": {
-      "summary": "Enjoys physical activity, comfort and the material world.",
-      "behaviour": "They like doing things with their hands and body and take pleasure in comfort, objects and surroundings. They adapt easily to new physical settings and enjoy sharing physical activities and comforts with others.",
-      "signs": ["Throws themselves into hands-on activities", "Enjoys shopping, making or fixing things with others", "Adapts quickly to a new place or routine"]
+      "summary": "Enjoys physical activity, comfort and practical work.",
+      "behaviour": "They like doing things with their hands and body and take pleasure in comfort, objects and surroundings. They work tirelessly and precisely, enjoy testing themselves physically, and adapt easily to new settings. They take practical care of other people as a matter of course.",
+      "signs": ["Throws themselves into hands-on activities", "Looks after others' practical needs without being asked", "Adapts quickly to a new place or routine"]
     },
     "F3": {
-      "summary": "Anxious about the physical and material side of life.",
-      "behaviour": "Comfort, money, possessions or physical competence feel uncertain. They may worry about doing practical things badly, feel judged on their appearance or surroundings, or swing between neglecting these areas and fussing over them.",
-      "signs": ["Feels self-conscious doing practical tasks in front of others", "Worries over money or possessions out of proportion", "Is hurt by comments about their home, clothes or appearance"]
+      "summary": "Self-conscious about the physical and material side of life.",
+      "behaviour": "Comfort, money, possessions, appearance or physical competence feel uncertain. They dread physical confrontation, may be prudish or awkward about the body, and can be quietly envious of people at ease in the physical world. They also push themselves to the limit to prove what they can do, because they don't know where their limits are.",
+      "signs": ["Feels self-conscious doing physical tasks in front of others", "Takes on punishing physical challenges to prove themselves", "Is hurt by comments about their home, clothes or appearance"]
     },
     "F4": {
-      "summary": "Undemanding about physical comfort and material things.",
-      "behaviour": "They don't pay much attention to their surroundings, possessions or comfort and are content to let others handle practical arrangements. They put up with discomfort without complaint and often lose track of the physical side of life while absorbed in something else.",
-      "signs": ["Doesn't notice or mind a messy or spare setting", "Happily lets someone else organise practical matters", "Forgets physical upkeep when busy"]
+      "summary": "Undemanding about comfort and material things.",
+      "behaviour": "They don't pay much attention to their surroundings, possessions or comfort and are content to let others handle practical arrangements, or to be provided for. They fit in with what a partner wants physically, put up with discomfort without complaint, and lose track of physical upkeep when absorbed in something else.",
+      "signs": ["Doesn't notice or mind a messy or spare setting", "Happily lets someone else organise money and practical matters", "Forgets physical upkeep when busy"]
     }
   }
 }

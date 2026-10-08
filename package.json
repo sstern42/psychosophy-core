@@ -1,6 +1,6 @@
 {
   "name": "psychosophy-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Psychosophy data and query library: the four aspects, four positions, all 24 types, and descriptions of each aspect in each position.",
   "main": "index.js",
   "author": "Spencer Stern (https://github.com/sstern42)",

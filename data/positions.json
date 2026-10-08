@@ -4,27 +4,31 @@
     "name": "First",
     "strength": "Strong",
     "orientation": "Result",
-    "summary": "Confident and settled. The person treats their own way here as the standard, gives to others freely and doesn't look for input."
+    "exchange": "Monologue",
+    "summary": "Confident and rigid. The person trusts their own way here above anything else, wants a clear outcome, and doesn't take input or compromise easily. They give from it only when they have more than they need, and a challenge to it hurts."
   },
   "2": {
     "position": 2,
     "name": "Second",
     "strength": "Strong",
     "orientation": "Process",
-    "summary": "Capable and flexible. The person enjoys the activity itself, adapts to other people and is happy to discuss and adjust."
+    "exchange": "Dialogue",
+    "summary": "Capable and flexible. The person enjoys the activity itself, comes alive with a partner or audience, and offers it to others as care and help. Criticism here reads as a pointer for improvement, not an attack."
   },
   "3": {
     "position": 3,
     "name": "Third",
     "strength": "Weak",
-    "orientation": "Result",
-    "summary": "Sensitive and anxious. The person cares a lot about getting it right, takes criticism hard, and tends to hide the area or overcompensate."
+    "orientation": "Process",
+    "exchange": "Dialogue",
+    "summary": "Sensitive and anxious. The person feels both lacking and full of untapped potential here. They take criticism hard, are quick to expect it, keep testing themselves, and often cover the area with a protective manner."
   },
   "4": {
     "position": 4,
     "name": "Fourth",
     "strength": "Weak",
-    "orientation": "Process",
-    "summary": "Relaxed and receptive. The person doesn't rate themselves highly here, isn't troubled by that, and readily follows other people's lead."
+    "orientation": "Result",
+    "exchange": "Monologue",
+    "summary": "Indifferent and receptive. The person doesn't care how they're judged here, readily follows other people's lead and mirrors what others want. They use it only as a tool for what matters more to them, and it switches off under pressure."
   }
 }
