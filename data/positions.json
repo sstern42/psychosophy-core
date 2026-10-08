@@ -1,0 +1,30 @@
+{
+  "1": {
+    "position": 1,
+    "name": "First",
+    "strength": "Strong",
+    "orientation": "Result",
+    "summary": "Confident and settled. The person treats their own way here as the standard, gives to others freely and doesn't look for input."
+  },
+  "2": {
+    "position": 2,
+    "name": "Second",
+    "strength": "Strong",
+    "orientation": "Process",
+    "summary": "Capable and flexible. The person enjoys the activity itself, adapts to other people and is happy to discuss and adjust."
+  },
+  "3": {
+    "position": 3,
+    "name": "Third",
+    "strength": "Weak",
+    "orientation": "Result",
+    "summary": "Sensitive and anxious. The person cares a lot about getting it right, takes criticism hard, and tends to hide the area or overcompensate."
+  },
+  "4": {
+    "position": 4,
+    "name": "Fourth",
+    "strength": "Weak",
+    "orientation": "Process",
+    "summary": "Relaxed and receptive. The person doesn't rate themselves highly here, isn't troubled by that, and readily follows other people's lead."
+  }
+}

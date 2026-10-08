@@ -1,0 +1,27 @@
+{
+  "name": "psychosophy-core",
+  "version": "0.1.0",
+  "description": "Psychosophy data and query library: the four aspects, four positions, all 24 types, and descriptions of each aspect in each position.",
+  "main": "index.js",
+  "author": "Spencer Stern (https://github.com/sstern42)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstern42/psychosophy-core.git"
+  },
+  "keywords": [
+    "psychosophy",
+    "afanasyev",
+    "psycho-yoga",
+    "personality",
+    "typology",
+    "socionics"
+  ],
+  "files": ["index.js", "data/"],
+  "scripts": {
+    "test": "node test/basic.test.js"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
